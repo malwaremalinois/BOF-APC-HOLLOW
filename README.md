@@ -1,3 +1,9 @@
+Edited for DEBUGGING and made memory RWX instead of just RX 
+
+
+
+
+
 ## HOLLOW - Cobalt Strike BOF
 ##### Authors:
 + Bobby Cooke ([@0xBoku](https://twitter.com/0xBoku))
